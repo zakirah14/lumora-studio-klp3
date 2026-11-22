@@ -1,4 +1,4 @@
-LUMORA Studio Kelompok 1 WEBDEV A
+LUMORA Studio Kelompok 3 WEBDEV A
 
 Penyewaan Studio Siniar (Podcast) dan Siaran Langsung Dagang https://github.com/ziyachei33/lumora-studio-klp3.git
 
